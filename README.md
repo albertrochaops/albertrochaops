@@ -1,3 +1,47 @@
+# Olá! 👋 Eu sou Albert Rocha
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+
+Sou apaixonado por tecnologia e estou construindo minha carreira na área de desenvolvimento de software. Utilizo este GitHub como um registro da minha evolução, reunindo projetos, estudos, experimentos e soluções desenvolvidas ao longo da minha jornada de aprendizado.
+
+Atualmente estou focado em fortalecer meus fundamentos em programação, lógica, algoritmos, estruturas de dados, engenharia de software e boas práticas de desenvolvimento. Acredito que uma base sólida é essencial para criar sistemas de qualidade e evoluir como profissional.
+
+## 🎯 Objetivos
+
+- Evoluir constantemente como desenvolvedor de software.
+- Construir projetos práticos que resolvam problemas reais.
+- Aprimorar minhas habilidades em arquitetura de software e desenvolvimento de sistemas.
+- Aprender novas tecnologias de forma consistente e aplicada.
+- Compartilhar minha evolução e meu aprendizado através deste GitHub.
+
+## 📚 Atualmente estudando
+
+- Lógica de Programação
+- Algoritmos
+- Estruturas de Dados
+- Programação Orientada a Objetos
+- Git e GitHub
+- Engenharia de Software
+- Desenvolvimento de Software
+
+## 📂 Sobre este GitHub
+
+Este perfil representa minha evolução como desenvolvedor.
+
+Aqui você encontrará projetos de estudo, desafios, exercícios, aplicações completas e experimentos desenvolvidos durante minha formação. Cada repositório reflete uma etapa da minha jornada e demonstra meu compromisso com o aprendizado contínuo e a melhoria constante.
+
+Estou sempre buscando escrever códigos mais organizados, legíveis, reutilizáveis e de fácil manutenção, aplicando boas práticas e adquirindo experiência a cada novo projeto.
+
+## 🚀 Filosofia
+
+Acredito que grandes desenvolvedores são construídos através da prática constante, curiosidade, disciplina e dedicação. Meu objetivo não é apenas aprender novas tecnologias, mas compreender profundamente como elas funcionam para criar soluções eficientes e bem estruturadas.
+
+Cada projeto representa um novo desafio, uma oportunidade de aprender algo diferente e dar mais um passo na construção da minha carreira.
+
+---
+
+⭐ Obrigado por visitar meu perfil! Fique à vontade para acompanhar minha evolução e explorar meus projetos.
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=15&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
