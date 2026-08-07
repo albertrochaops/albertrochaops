@@ -38,6 +38,7 @@ Acredito que grandes desenvolvedores são construídos através da prática cons
 
 Cada projeto representa um novo desafio, uma oportunidade de aprender algo diferente e dar mais um passo na construção da minha carreira.
 
+  4lbertprofision4l@gmail.com
 ---
 
 ⭐ Obrigado por visitar meu perfil! Fique à vontade para acompanhar minha evolução e explorar meus projetos.
